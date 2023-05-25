@@ -1,0 +1,6 @@
+Changes made in generated HTML file
+
+# Disable imperial scale in js part: {imperial: false}
+
+Original:  L.control.scale()
+Edited:    L.control.scale({imperial: false})
