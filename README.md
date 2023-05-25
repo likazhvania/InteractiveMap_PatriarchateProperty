@@ -1,1 +1,1 @@
-# InteractiveMap_PatriarchateProperty
+# Patriarchate property | საპატრიარქოს ქონება
